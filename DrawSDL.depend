@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1649292658 source:e:\documents\code\c++\drawsdl\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cctype>
+	<vector>
+	<fstream>
+	<SDL.h>
+
